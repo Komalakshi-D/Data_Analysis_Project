@@ -1,5 +1,7 @@
 # Project Title:
 # Indian Cities - Analyzing Inter-City Travel Distances
+# Overview:
+The project "Indian Cities - Analyzing Inter-City Travel Distances" aims to analyze travel distances between Indian cities to provide insights into regional connectivity and accessibility. By examining the dataset on origins, destinations, and travel distances, the project highlights key findings such as cities with high connectivity, the distribution of travel distances, and identifies both the shortest and longest routes.
 # Purpose:
 The purpose of the project is to analyze the distances between Indian cities using data on their origin, destination, and travel distance. By understanding these travel distances, the project aims to provide insights into the connectivity and accessibility of different regions within India. This analysis will assist urban planners and policymakers in developing efficient transportation infrastructure and support decision-making related to tourism, economic development, and regional planning.
 # Conclusion:
